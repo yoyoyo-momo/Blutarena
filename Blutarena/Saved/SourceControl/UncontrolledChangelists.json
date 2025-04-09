@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Input/IMC_Default.uasset",
 				"D:/Unreal_Projects/Blutarena/Blutarena/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
