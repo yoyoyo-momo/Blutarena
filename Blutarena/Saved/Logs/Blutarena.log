@@ -2702,3 +2702,191 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.09-03.55.22:085][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.392578
 [2025.04.09-03.55.22:165][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.09-03.55.22:165][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.455078, Update Interval: 356.896271
+[2025.04.09-03.59.52:731][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.09-03.59.52:737][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/C8/DQZO34E6S1KNHRRVN68WZ3_Auto2
+[2025.04.09-03.59.52:737][ 52]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/DQZO34E6S1KNHRRVN68WZ3_Auto2E83D6FD845C7B214A2920BB7DB9DA5F5.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/C8/DQZO34E6S1KNHRRVN68WZ3_Auto2.uasset'
+[2025.04.09-03.59.52:742][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.051
+[2025.04.09-03.59.52:742][ 52]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2025.04.09-03.59.52:743][ 52]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Maps/Level_Transfer_Trigger] ([2] browsable assets)...
+[2025.04.09-03.59.52:937][ 52]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Maps/Level_Transfer_Trigger.Level_Transfer_Trigger]
+[2025.04.09-03.59.52:937][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/Level_Transfer_Trigger]
+[2025.04.09-03.59.52:943][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Level_Transfer_Trigger_Auto2
+[2025.04.09-03.59.52:943][ 52]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Level_Transfer_Trigger_Auto2478897FB43F0EC082B331DBB338B98EB.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Autosaves/Game/FirstPerson/Maps/Level_Transfer_Trigger_Auto2.uasset'
+[2025.04.09-03.59.52:944][ 52]LogFileHelpers: Auto-saving content packages took 0.203
+[2025.04.09-04.01.59:259][  4]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.09-04.02.05:444][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2865.759033
+[2025.04.09-04.02.05:527][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-04.02.05:527][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2865.825928, Update Interval: 354.347351
+[2025.04.09-04.02.14:098][834]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.04.09-04.02.14:107][834]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.04.09-04.02.14:121][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.04.09-04.02.20:638][225]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Sprint
+[2025.04.09-04.02.20:638][225]LogContentBrowser: End creating deferred item NewInputAction
+[2025.04.09-04.02.45:970][733]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2025.04.09-04.04.58:258][530]LogSlate: Took 0.006791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.04.09-04.05.10:644][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.09-04.05.51:593][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.09-04.08.51:738][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3272.053711
+[2025.04.09-04.08.51:840][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-04.08.51:840][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3272.136475, Update Interval: 348.518921
+[2025.04.09-04.12.09:495][ 39]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.09-04.13.44:407][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.09-04.13.44:409][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2025.04.09-04.13.44:409][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.04.09-04.13.44:446][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.04.09-04.13.44:446][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.04.09-04.13.44:455][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2025.04.09-04.13.44:455][614]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/BP_FirstPersonCharacter_Auto38584C83C4D445E788A683792512AEC1D.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2025.04.09-04.13.44:456][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/IMC_Default] ([1] browsable assets)...
+[2025.04.09-04.13.44:456][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/IMC_Default]
+[2025.04.09-04.13.44:459][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Input/IMC_Default_Auto3
+[2025.04.09-04.13.44:459][614]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/IMC_Default_Auto36AF090754177969C7BC06A905AA2DD31.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Autosaves/Game/FirstPerson/Input/IMC_Default_Auto3.uasset'
+[2025.04.09-04.13.44:460][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/Actions/IA_Sprint] ([1] browsable assets)...
+[2025.04.09-04.13.44:460][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/Actions/IA_Sprint]
+[2025.04.09-04.13.44:461][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Input/Actions/IA_Sprint_Auto3
+[2025.04.09-04.13.44:461][614]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/IA_Sprint_Auto3E02594864B646CF5A022E7B5AC264D41.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Autosaves/Game/FirstPerson/Input/Actions/IA_Sprint_Auto3.uasset'
+[2025.04.09-04.13.44:462][614]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.04.09-04.14.48:812][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-04.14.48:877][207]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.04.09-04.14.48:919][207]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.04.09-04.14.48:919][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.04.09-04.14.48:931][207]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.04.09-04.14.48:932][207]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/BP_FirstPersonCharacterED800D4449BDCB15DBE551B13ECA0C51.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.04.09-04.14.48:943][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.559 ms (total: 961.812 ms)
+[2025.04.09-04.14.49:013][207]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-04.14.49:013][207]LogContentValidation: Enabled validators:
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-04.14.49:013][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-04.14.49:013][207]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.04.09-04.14.51:401][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.09-04.14.51:406][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-04.14.51:466][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/C8/DQZO34E6S1KNHRRVN68WZ3
+[2025.04.09-04.14.51:466][336]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/DQZO34E6S1KNHRRVN68WZ38E6FA0D7424932B985CE6A9AE621454D.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/C8/DQZO34E6S1KNHRRVN68WZ3.uasset'
+[2025.04.09-04.14.51:471][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/IMC_Default] ([1] browsable assets)...
+[2025.04.09-04.14.51:471][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/IMC_Default]
+[2025.04.09-04.14.51:473][336]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2025.04.09-04.14.51:473][336]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/IMC_Default4CE41A194005D1FA2FA33A9AC4BC640D.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Input/IMC_Default.uasset'
+[2025.04.09-04.14.51:475][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/Level_Transfer_Trigger] ([2] browsable assets)...
+[2025.04.09-04.14.51:475][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/Level_Transfer_Trigger]
+[2025.04.09-04.14.51:480][336]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Level_Transfer_Trigger
+[2025.04.09-04.14.51:481][336]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/Level_Transfer_Trigger8AD5BBFC4518BA93C75846A056A31A2C.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Maps/Level_Transfer_Trigger.uasset'
+[2025.04.09-04.14.51:482][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/Actions/IA_Sprint] ([1] browsable assets)...
+[2025.04.09-04.14.51:482][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/Actions/IA_Sprint]
+[2025.04.09-04.14.51:483][336]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/Actions/IA_Sprint
+[2025.04.09-04.14.51:483][336]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/IA_SprintA216D7234472691B11C2C3A23B846C57.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Input/Actions/IA_Sprint.uasset'
+[2025.04.09-04.14.51:498][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.582 ms (total: 1.05 sec)
+[2025.04.09-04.14.51:559][336]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.09-04.14.51:559][336]LogContentValidation: Enabled validators:
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-04.14.51:559][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-04.14.51:559][336]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.04.09-04.14.51:559][336]AssetCheck: /Game/FirstPerson/Input/IMC_Default Validating asset
+[2025.04.09-04.14.51:559][336]AssetCheck: /Game/FirstPerson/Maps/Level_Transfer_Trigger Validating asset
+[2025.04.09-04.14.51:559][336]AssetCheck: /Game/FirstPerson/Input/Actions/IA_Sprint Validating asset
+[2025.04.09-04.14.52:027][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.09-04.15.33:808][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.09-04.15.36:478][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.09-04.15.36:489][804]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.09-04.15.36:489][804]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.04.09-04.15.36:493][804]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4.074 ms (total: 23.611 ms)
+[2025.04.09-04.15.36:494][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-04.15.36:494][804]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2025.04.09-04.15.36:498][804]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.04.09-04.15.36:515][805]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.09-04.15.36:526][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010811s)
+[2025.04.09-04.15.36:526][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010915s)
+[2025.04.09-04.15.36:552][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.09-04.15.36:556][805]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.04.09-04.15.36:558][805]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.09-04.15.36:558][805]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.09-04.15.36:558][805]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.09-04.15.36:559][805]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.09-04.15.36:561][805]LogWorldPartition: Display: WorldPartition initialize took 2.957 ms (total: 224.187 ms)
+[2025.04.09-04.15.36:561][805]LogPlayLevel: PIE: World Init took: (0.005640s)
+[2025.04.09-04.15.36:563][805]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-04.15.36:563][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.09-04.15.36:563][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-04.15.36:563][805]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-04.15.36:563][805]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-04.15.36:563][805]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-04.15.36:567][805]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-04.15.36:667][805]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.04.09-04.15.36:667][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-04.15.36:667][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-04.15.36:667][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-04.15.36:668][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.04.09-04.15.36:668][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.04.09-04.15.36:671][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.04.09-04.15.36:671][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.04.09-04.15.36:671][805]LogInit: FAudioDevice initialized with ID 10.
+[2025.04.09-04.15.36:671][805]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2025.04.09-04.15.36:671][805]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.04.09-04.15.36:675][805]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.09-04.15.36:677][805]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.04.08-23.15.36
+[2025.04.09-04.15.36:677][805]LogWorld: Bringing up level for play took: 0.001849
+[2025.04.09-04.15.36:680][805]PIE: Server logged in
+[2025.04.09-04.15.36:683][805]PIE: Play in editor total start time 0.194 seconds.
+[2025.04.09-04.15.36:708][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3677.032471
+[2025.04.09-04.15.36:852][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-04.15.36:852][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3677.160156, Update Interval: 345.327301
+[2025.04.09-04.15.48:356][501]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/Level2"
+[2025.04.09-04.15.48:356][501]LogNet: Browse: /Game/FirstPerson/Maps/Level2
+[2025.04.09-04.15.48:356][501]LogLoad: LoadMap: /Game/FirstPerson/Maps/Level2
+[2025.04.09-04.15.48:356][501]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.09-04.15.48:357][501]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-04.15.48:359][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-04.15.48:359][501]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.04.09-04.15.48:417][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-04.15.48:420][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.09-04.15.48:422][501]LogStreaming: Display: FlushAsyncLoading(877): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-04.15.48:423][501]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level2'.
+[2025.04.09-04.15.48:424][501]LogChaosDD: Creating Chaos Debug Draw Scene for world Level2
+[2025.04.09-04.15.48:425][501]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2025.04.09-04.15.48:425][501]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.09-04.15.48:425][501]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.04.08-23.15.48
+[2025.04.09-04.15.48:425][501]LogWorld: Bringing up level for play took: 0.000723
+[2025.04.09-04.15.48:428][501]LogLoad: Took 0.071578 seconds to LoadMap(/Game/FirstPerson/Maps/Level2)
+[2025.04.09-04.15.48:428][501]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/Level2
+[2025.04.09-04.15.54:081][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-04.15.54:082][839]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Level2
+[2025.04.09-04.15.54:082][839]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-04.15.54:082][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-04.15.54:087][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-04.15.54:091][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-04.15.54:115][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-04.15.54:115][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.04.09-04.15.54:116][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.04.09-04.15.54:117][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.04.09-04.15.54:123][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.09-04.15.54:175][841]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.04.09-04.16.06:583][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.09-04.16.06:587][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-04.16.06:648][553]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.04.09-04.16.06:682][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.04.09-04.16.06:682][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.04.09-04.16.06:694][553]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.04.09-04.16.06:694][553]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Saved/BP_FirstPersonCharacterA2140E9C45B4D2252AEF99876FEF3D23.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.04.09-04.16.06:704][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.405 ms (total: 1.17 sec)
+[2025.04.09-04.16.06:769][553]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-04.16.06:769][553]LogContentValidation: Enabled validators:
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-04.16.06:769][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-04.16.06:769][553]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
