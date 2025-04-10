@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/FirstPerson/Blueprints/UI/WBP_Ammo.uasset",
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/FirstPerson/Input/Actions/NewInputMappingContext.uasset",
+				"/Users/alan/Documents/School/CS415/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"D:/Unreal_Projects/Blutarena/Blutarena/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal_Projects/Blutarena/Blutarena/Content/FirstPerson/Blueprints/UI/WBP_HealthBar.uasset",
 				"D:/Unreal_Projects/Blutarena/Blutarena/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
